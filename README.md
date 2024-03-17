@@ -7,8 +7,7 @@ This Python script converts infix expressions to postfix and prefix notation usi
 1. Run the script.
 2. Enter an infix expression when prompted.
 3. The script will display the corresponding prefix expression.
-
-4. 
+ 
 ## Requirements
 
 - Python 3.x
